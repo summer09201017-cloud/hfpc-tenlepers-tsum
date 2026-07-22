@@ -1,0 +1,13 @@
+{
+  "name": "麻風十人・回來感謝",
+  "short_name": "麻風十人",
+  "description": "連起同款的得潔淨的人,結伴回來感謝耶穌——十個得潔淨,只有一個回來。(路17,和合本)",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#16302a",
+  "theme_color": "#2e6b52",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

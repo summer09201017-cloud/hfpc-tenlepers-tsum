@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#2e6b52"/>
+  <circle cx="50" cy="56" r="24" fill="none" stroke="#ffe9a8" stroke-width="2.5" opacity=".8"/>
+  <circle cx="50" cy="52" r="15" fill="#cf5a4a"/>
+  <path d="M38 46 a15 15 0 0 1 24 0" fill="none" stroke="#7a2a20" stroke-width="4"/>
+  <circle cx="45" cy="52" r="1.9" fill="#3a2a18"/><circle cx="55" cy="52" r="1.9" fill="#3a2a18"/>
+  <path d="M45 58 q5 4 10 0" stroke="#3a2a18" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="50" y="90" font-size="11" text-anchor="middle" fill="#ffe9a8" font-family="sans-serif">回來感謝</text>
+  <text x="50" y="22" font-size="13" text-anchor="middle" fill="#ffe9a8" font-family="sans-serif">麻風十人</text>
+</svg>
